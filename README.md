@@ -13,4 +13,4 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=elvismdev&count_private=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvismdev&layout=compact&hide=procfile,apacheconf&langs_count=10)](https://github.com/elvismdev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvismdev&layout=compact&hide=css,procfile,apacheconf&langs_count=10)](https://github.com/elvismdev)

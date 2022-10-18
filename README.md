@@ -1,7 +1,7 @@
 
 ### ¡Hola! 👋
 
-<p><em>Interwebs Mechanic (Software Engineer) @ <a href="https://www.forumone.com">Forum One</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p><em>Interwebs Mechanic (Senior Software Developer) @ <a href="https://tealmedia.com">Teal Media</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 [![Twitter: n3rdh4ck3r](https://img.shields.io/twitter/follow/n3rdh4ck3r?style=social)](https://twitter.com/n3rdh4ck3r)
 [![Linkedin: elvismdev](https://img.shields.io/badge/-elvismdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elvismdev/)](https://www.linkedin.com/in/elvismdev/)

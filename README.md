@@ -14,6 +14,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvismdev&layout=compact&hide=css,procfile,apacheconf&langs_count=10)](https://github.com/elvismdev)
-
-### A quick plea for help 🤝
-<p>Your generosity can make a real difference in my parents' healthcare journey. Please consider donating to support their expenses in the US at <a href="https://donate.elvismdev.io">donate.elvismdev.io</a>. Every little bit helps, and we deeply appreciate your support. Thank you!</p>
